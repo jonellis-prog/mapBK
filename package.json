@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "django": "^99.99.99",
+    "fastapi": "^0.0.8",
+    "git": "^0.1.5",
+    "uvicorn": "^0.0.1-security"
+  }
+}
